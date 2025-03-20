@@ -1,6 +1,7 @@
 This script provides real-time system statistics, including CPU usage, memory usage, disk usage, top processes, OS details, uptime, logged-in users, and failed login attempts.
 
 Features
+
 ✅ Displays CPU, Memory, and Disk Usage
 
 ✅ Lists Top 5 Processes by CPU & Memory
