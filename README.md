@@ -52,11 +52,11 @@ Bash Shell
 
 Compatible Distributions (Likely to Work)
 
-Ubuntu/Debian (Tested on Ubuntu 22.04)
+Ubuntu/Debian (Tested)
 
-CentOS/RHEL (Tested on Ubuntu 22.04)
+CentOS/RHEL (Tested)
 
-Fedora (Tested on Ubuntu 22.04)
+Fedora (Tested)
 
 Arch Linux
 
