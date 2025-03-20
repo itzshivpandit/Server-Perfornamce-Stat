@@ -1,3 +1,6 @@
+url://   https://github.com/itzshivpandit/Server-Perfornamce-Stat.git
+
+
 This script provides real-time system statistics, including CPU usage, memory usage, disk usage, top processes, OS details, uptime, logged-in users, and failed login attempts.
 
 Features
