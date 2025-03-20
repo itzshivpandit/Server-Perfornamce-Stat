@@ -1,6 +1,3 @@
-Project url://   https://roadmap.sh/projects/server-stats
-
-
 
 
 This script provides real-time system statistics, including CPU usage, memory usage, disk usage, top processes, OS details, uptime, logged-in users, and failed login attempts.
@@ -64,4 +61,10 @@ CentOS/RHEL (Tested)
 Fedora (Tested)
 
 Arch Linux
+
+
+
+
+Project url://   https://roadmap.sh/projects/server-stats
+
 
