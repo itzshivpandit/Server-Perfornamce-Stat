@@ -2,13 +2,17 @@ This script provides real-time system statistics, including CPU usage, memory us
 
 Features
 ✅ Displays CPU, Memory, and Disk Usage
+
 ✅ Lists Top 5 Processes by CPU & Memory
+
 ✅ Shows OS details and uptime
+
 ✅ Logs failed login attempts
+
 ✅ Compatible with Ubuntu (Linux)
 
 
- Usage
+> Usage
 Clone the repository:
 
 git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
@@ -16,11 +20,11 @@ cd YOUR_REPO_NAME
 
 chmod +x stat.sh
 
-Run the script:
+>Run the script:
 
 ./stat.sh
 
-Example Output
+>Example Output
 
 --- CPU Usage ---
 Total CPU Usage: 5.00%
